@@ -167,21 +167,7 @@ Technical details and project information.
 
 ---
 
-# 📷 Screenshots
 
-## Home Page
-
-![Home](assets/screenshots/home.png)
-
-## Prediction Page
-
-![Prediction](assets/screenshots/predict.png)
-
-## Analytics Dashboard
-
-![Analytics](assets/screenshots/analytics.png)
-
----
 
 # 🚀 Live Demo
 
@@ -220,10 +206,6 @@ streamlit run app.py
 ## Nouran Nasser
 
 Computer Science Student | AI & Machine Learning Enthusiast
-
-* LinkedIn: https://linkedin.com/in/your-linkedin
-* GitHub: https://github.com/your-github
-* Email: [your@email.com](mailto:your@email.com)
 
 ---
 
