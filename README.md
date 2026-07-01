@@ -172,7 +172,7 @@ Technical details and project information.
 # 🚀 Live Demo
 
 🔗 **Demo Link:**
-[Add Streamlit Deployment URL Here]
+https://huggingface.co/spaces/nourannasser22/emotion-ai-dashboard
 
 ---
 
