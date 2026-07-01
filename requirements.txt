@@ -1,0 +1,9 @@
+streamlit
+tensorflow>=2.15.0
+torch>=2.0.0
+opencv-python-headless
+numpy
+pandas
+plotly
+Pillow
+streamlit-option-menu

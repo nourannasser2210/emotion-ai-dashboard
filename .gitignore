@@ -1,0 +1,21 @@
+# Python caches
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Streamlit config and caches
+.streamlit/
+*.sticky
+
+# Development environment
+.venv/
+env/
+venv/
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Large Model weights (If over 100MB, don't push directly)
+# model/model_weights.h5
